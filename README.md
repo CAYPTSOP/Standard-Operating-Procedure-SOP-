@@ -5,7 +5,7 @@
   1. Procedures to operate scientific experiment
   2. Procedures to build scientific equipment
   3. Professional physics knowledge in related SOP topic
-### Procedures of Composing SOP
+### How to Write SOPs?
   To write a comprehensive SOP, you are supposed to include:
 1. Principle of Operation: How does the technique in you SOP work.
 2. Materials Required: What materials do you need; where can you have access to the mentioned materials.
