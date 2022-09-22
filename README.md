@@ -12,7 +12,7 @@
   2. Procedures to build scientific equipment
   3. Professional physics knowledge in related SOP topic
   
-### How to Write SOPs?
+## How to Write SOPs?
   To write a comprehensive SOP, you need to include the following info:
 1. **Principle of Operation:** How does the routine activity in you SOP work from basic physics principles.
 2. **Materials Required:** What materials do you need; where can you have access to the mentioned materials.
@@ -24,7 +24,7 @@ Use the template and writing package attached to write your SOP:
 
   **SOP writing Package:** [template_1.zip](https://github.com/CAYPTSOP/Standard-Operating-Procedure-SOP-/files/9610240/template_1.zip)
  
- ### Submission
+ ## Submission
 SOP submission or if you have any problem please contact:
 
 * **Editor in Chief of SOP:** Archie Shou
