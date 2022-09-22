@@ -25,7 +25,7 @@ Use the template and writing package attached to write your SOP:
   **SOP writing Package:** [template_1.zip](https://github.com/CAYPTSOP/Standard-Operating-Procedure-SOP-/files/9610240/template_1.zip)
  
  ### Submission
-For SOP submission or if you have any problem:
+SOP submission or if you have any problem please contact:
 
 * **Editor in Chief of SOP:** Archie Shou
 
