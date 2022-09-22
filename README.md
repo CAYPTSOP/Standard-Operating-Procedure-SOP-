@@ -4,8 +4,8 @@
 
 ## How to use this SOP collection?
   When you are looking for information of routine activity
-  1. Click on the related subject of the SOP you are looking for (Ex: Electricity and Magnetism, Thermodynamics, Fluid, etc.)
-  2. 
+  1. Click on the folder of the SOP subject you are looking for. (Ex: Electricity and Magnetism, Thermodynamics, Fluid, etc.)
+  2. Look for the file title that matches your demand.
   
 ## What can you get from reading SOPs?
   1. Procedures to operate scientific experiment
