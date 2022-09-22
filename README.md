@@ -20,9 +20,9 @@
 
 Use the template and writing package attached to write your SOP:
 
-  **Template:** [SOP_Template.pdf](https://github.com/CAYPTSOP/Standard-Operating-Procedure-SOP-/files/9610228/SOP_Template.pdf)
+ * **Template:** [SOP_Template.pdf](https://github.com/CAYPTSOP/Standard-Operating-Procedure-SOP-/files/9610228/SOP_Template.pdf)
 
-  **SOP writing Package:** [template_1.zip](https://github.com/CAYPTSOP/Standard-Operating-Procedure-SOP-/files/9610240/template_1.zip)
+ * **SOP writing Package:** [template_1.zip](https://github.com/CAYPTSOP/Standard-Operating-Procedure-SOP-/files/9610240/template_1.zip)
  
  ## Submission
 SOP submission or if you have any problem please contact:
