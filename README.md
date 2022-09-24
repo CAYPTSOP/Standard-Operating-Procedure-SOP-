@@ -1,13 +1,13 @@
 # Standard-Operating-Procedure-SOP
 ## What is SOP?
-  SOP(standard operating procedure) is a set of written instructions that describes the step-by-step process that must be taken to properly perform a routine activity
+  SOP(standard operating procedure) is a set of written instructions which describes the step-by-step process that must be taken to properly perform a routine activity
 
 ## How to use this SOP collection?
   When you are looking for information of routine activity
-  1. Click on the folder of the SOP subject you are looking for. (Ex: Electricity and Magnetism, Thermodynamics, Fluid, etc.)
+  1. Click on the subject that you are looking for. (Technology and Electronics, Thermodynamics, Fluid etc.)
   2. Look for the file title that matches your demand.
   
-## What can you get from reading SOPs?
+## What can you learn from reading SOPs?
   1. Procedures to operate scientific experiment
   2. Procedures to build scientific equipment
   3. Professional physics knowledge in related SOP topic
