@@ -11,7 +11,7 @@
 ## Motivation and Vision
   The CaYPT Committee hopes to encourage more young scientists to expand their understanding of experimental techniques by studying SOP. We offer a free online archive of experimental techniques to aid the education of young scientists worldwide.
 
-## How to use this SOP collection?
+## How to use SOP Project?
   When you are looking for information of routine activity
   1. Click on the subject that you are looking for. (Technology and Electronics, Thermodynamics, Fluid etc.)
   2. Look for the file title that matches your demand.
@@ -25,7 +25,7 @@
   * **S** - Sound and Acoustics
  
   
-## How to Write SOPs?
+## How to Write SOP?
   To write a comprehensive SOP, you need to include the following info:
 1. **Principle of Operation:** How does the routine activity in you SOP function? Explain with detailed scientific principles.
 2. **Materials Required:** What materials do you need? How can you access listed materials?
@@ -37,7 +37,7 @@ Use the template and writing package attached to create your own SOP:
 
  * **SOP writing Package:** [template_1.zip](https://github.com/CAYPTSOP/Standard-Operating-Procedure-SOP-/files/9610240/template_1.zip)
  
- ## SOP Submission
+ ## SOP Submission & Contact Info
 For SOP submission or if you have any problem please contact:
 
 * **Editor in Chief of SOP:** Archie Shou
