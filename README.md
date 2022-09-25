@@ -21,6 +21,7 @@
   * **E** - Electronics and Technology
   * **T** - Thermodynamics
   * **F** - Fluid
+  * **V** - Video Analysis
   * ****
  
   
