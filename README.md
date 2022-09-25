@@ -15,7 +15,8 @@
   When you are looking for information of routine activity
   1. Click on the subject that you are looking for. (Technology and Electronics, Thermodynamics, Fluid etc.)
   2. Look for the file title that matches your demand.
-  Each subject has a specific prefix:
+ 
+  Each subject has a specific prefix, you can use this code to search for the subject you want:
   * **M** - Numberical Operation
   * **E** - Electronics and Technology
   * **T** - Thermodynamics
