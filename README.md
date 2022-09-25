@@ -22,7 +22,7 @@
   * **T** - Thermodynamics
   * **F** - Fluid
   * **V** - Video Analysis
-  * **S** - Sound and Accoustics
+  * **S** - Sound and Acoustics
  
   
 ## How to Write SOPs?
