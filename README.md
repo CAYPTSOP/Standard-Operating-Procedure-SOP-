@@ -40,11 +40,11 @@ Use the template and writing package attached to create your own SOP:
  ## SOP Submission & Contact Info
 For SOP submission or if you have any problem please contact:
 
-* **Editor in Chief of SOP:** Archie Shou
+* **Co-Editor in Chief of SOP:** Archie Shou
 
 * **Email:** archie.shou@stemfellowship.org
 
-* **Editor in Chief of SOP:** Jeffrey MingHan Li
+* **Co-Editor in Chief of SOP:** Jeffrey MingHan Li
 
 * **Email:** jeffrey.li@stemfellowship.org
 
