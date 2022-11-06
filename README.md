@@ -13,17 +13,8 @@
 
 ## How to use SOP Project?
   When you are looking for information of routine activity
-  1. Look for the topics refering to the list of SOPs: [List of SOP Topics.pdf](https://github.com/CAYPTSOP/Standard-Operating-Procedure-SOP-/files/9947062/List.of.SOP.Topics.pdf)
+  1. Look for the topics by searching specific code of a SOP refering to the list of SOPs: [List of SOP Topics.pdf](https://github.com/CAYPTSOP/Standard-Operating-Procedure-SOP-/files/9947062/List.of.SOP.Topics.pdf)
   2. If you can't find the topic you want, search by subjects using the categorized documents.
- 
-  Each subject has a specific prefix, you can use this code to search for the subject you want:
-  * **M** - Numberical Operation
-  * **E** - Electronics and Technology
-  * **T** - Thermodynamics
-  * **F** - Fluid
-  * **V** - Video Analysis
-  * **S** - Sound and Acoustics
- 
   
 ## How to Write SOP?
   To write a comprehensive SOP, you need to include the following info:
