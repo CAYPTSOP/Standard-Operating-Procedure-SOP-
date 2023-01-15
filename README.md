@@ -18,8 +18,8 @@
   
 ## How to Write SOP?
   To write a comprehensive SOP, you need to include the following info:
-1. **Principle of Operation:** How does the routine activity in you SOP function? Explain with detailed scientific principles.
-2. **Materials Required:** What materials do you need? How can you access listed materials?
+1. **Principle of Operation:** How does the routine activity in your SOP function? Explain with detailed scientific principles.
+2. **Materials Required:** What materials do you need? How can you access the listed materials?
 3. **Conclusion & General Procedures:** Summarize your reports and procedures.
 
 Use the template and writing package attached to create your own SOP:
