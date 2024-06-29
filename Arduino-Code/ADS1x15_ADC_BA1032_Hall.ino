@@ -4,7 +4,7 @@
 // It reads the voltage output of a BA1032 linear ratiometric hall sensor using a high-precision 
 // ADS1x15 ADC (up to 16 bits) and converts the voltage value into magnetic field value.
 
-include "ADS1X15.h"
+#include "ADS1X15.h"
 
 
 // choose your sensor
