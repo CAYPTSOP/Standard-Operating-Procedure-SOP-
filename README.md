@@ -31,11 +31,7 @@ Use the template and writing package attached to create your own SOP:
  ## SOP Submission & Contact Info
 For SOP submission or if you have any problem please contact:
 
-* **Co-Editor in Chief of SOP:** Archie Shou
-
-* **Email:** archie.shou@stemfellowship.org
-
-* **Co-Editor in Chief of SOP:** Jeffrey MingHan Li
+CaYPT Committee cayptsop@gmail.com
 
 * **Email:** jeffrey.li@stemfellowship.org
 
