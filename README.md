@@ -32,8 +32,3 @@ Use the template and writing package attached to create your own SOP:
 For SOP submission or if you have any problem please contact:
 
 CaYPT Committee cayptsop@gmail.com
-
-* **Email:** jeffrey.li@stemfellowship.org
-
-
- 
